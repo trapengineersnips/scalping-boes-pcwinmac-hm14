@@ -1,4 +1,4 @@
-# 
+# 官方 scalping bot for derivatives 工具 Mac OS版 | 即时 scalping bot for derivatives 工具 PC Windows版。集成 低频监控 和 Web3连接，跨平台性能最大化。
 
 
 
